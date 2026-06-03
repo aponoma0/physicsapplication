@@ -1,0 +1,5 @@
+{
+  "name": "Physics app",
+  "description": "A gamified, Duolingo-style physics learning application featuring bite-sized lessons, interactive quizzes powered by Gemini AI, streak tracking, and leaderboards.",
+  "requestFramePermissions": []
+}
